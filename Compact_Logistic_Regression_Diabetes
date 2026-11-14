@@ -26,7 +26,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 13,
+      "execution_count": 1,
       "id": "2b0826d7",
       "metadata": {
         "id": "2b0826d7"
@@ -54,14 +54,14 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 14,
+      "execution_count": 2,
       "id": "23dea1ec",
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
         },
         "id": "23dea1ec",
-        "outputId": "1fb9db80-5bad-41b5-83c9-0ed46c9065ed"
+        "outputId": "e25d00bb-62fd-4533-a146-42e850cd1e37"
       },
       "outputs": [
         {
@@ -108,14 +108,14 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 15,
+      "execution_count": 3,
       "id": "075da9f4",
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
         },
         "id": "075da9f4",
-        "outputId": "b010025f-ad2d-4d5b-dc25-9ea63e5019fe"
+        "outputId": "b8369c53-7805-4cc2-ad95-7efdcd5310d8"
       },
       "outputs": [
         {
@@ -153,7 +153,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 16,
+      "execution_count": 4,
       "id": "18821263",
       "metadata": {
         "colab": {
@@ -161,7 +161,7 @@
           "height": 472
         },
         "id": "18821263",
-        "outputId": "e276b45d-a29b-4b5b-ca3e-2ebbecd424ad"
+        "outputId": "9e54d2b4-d756-4ef9-c4b6-40bdee1d0799"
       },
       "outputs": [
         {
@@ -197,7 +197,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 17,
+      "execution_count": 5,
       "id": "8018cffb",
       "metadata": {
         "colab": {
@@ -205,7 +205,7 @@
           "height": 507
         },
         "id": "8018cffb",
-        "outputId": "87aaf824-80c5-452f-e6e3-7272d8507f90"
+        "outputId": "60926084-6a02-4d90-8199-5a74455718c8"
       },
       "outputs": [
         {
@@ -258,7 +258,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 18,
+      "execution_count": 6,
       "id": "76f7c0c5",
       "metadata": {
         "colab": {
@@ -266,7 +266,7 @@
           "height": 489
         },
         "id": "76f7c0c5",
-        "outputId": "5495f6ba-f871-4748-ad45-9f3cc979f538"
+        "outputId": "2555ca91-d458-4e22-ef4d-9d2927290389"
       },
       "outputs": [
         {
